@@ -187,7 +187,7 @@ header nav li {
   color: #8c9eff;
 }
 
-.packages grid li h4 {
+.packages .grid li h4 {
   font-size: 30px;
   margin: 25px 0;
 }
